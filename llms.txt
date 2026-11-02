@@ -2,48 +2,55 @@
 
 > KSE Door Mechanics is a garage door service business serving the Boston, Massachusetts area. This file is an informational navigation guide to planned website content. Confirm actual service availability, business details, and live URLs on the website before relying on them.
 
-Website: https://example.com/
+Website: https://ksedoormechanics.com/
+
+## Company and contact pages
+
+- [About KSE Door Mechanics](https://ksedoormechanics.com/about-us/): Business background and company information.
+- [Contact KSE Door Mechanics](https://ksedoormechanics.com/contact/): Contact information and service inquiries.
+- [Privacy policy](https://ksedoormechanics.com/privacy-policy/): Website privacy practices.
+- [Service locations](https://ksedoormechanics.com/locations/): Boston-area service coverage directory.
 
 ## Main service pages
 
-- [All garage door services](https://example.com/services/): Service directory.
-- [Garage door repair](https://example.com/services/garage-door-repair/): Mechanical and operational garage door repairs.
-- [Garage door installation](https://example.com/services/garage-door-installation/): New residential and other supported garage door installations.
-- [Garage door replacement](https://example.com/services/garage-door-replacement/): Replacement of garage door systems.
-- [Garage door maintenance](https://example.com/services/garage-door-maintenance/): Preventive maintenance, inspections, and tune-ups.
-- [Garage door openers](https://example.com/services/garage-door-openers/): Opener repair, installation, controls, and troubleshooting.
-- [Emergency garage door repair](https://example.com/services/emergency-garage-door-repair/): Urgent garage door service, subject to confirmed availability.
-- [Commercial garage doors](https://example.com/services/commercial-garage-doors/): Commercial door repair, installation, and maintenance where supported.
-- [Industrial door services](https://example.com/services/industrial-door-services/): Industrial door systems where supported.
+- [All garage door services](https://ksedoormechanics.com/services/): Service directory.
+- [Garage door repair](https://ksedoormechanics.com/services/garage-door-repair/): Mechanical and operational garage door repairs.
+- [Garage door installation](https://ksedoormechanics.com/services/garage-door-installation/): New residential and other supported garage door installations.
+- [Garage door replacement](https://ksedoormechanics.com/services/garage-door-replacement/): Replacement of garage door systems.
+- [Garage door maintenance](https://ksedoormechanics.com/services/garage-door-maintenance/): Preventive maintenance, inspections, and tune-ups.
+- [Garage door openers](https://ksedoormechanics.com/services/garage-door-openers/): Opener repair, installation, controls, and troubleshooting.
+- [Emergency garage door repair](https://ksedoormechanics.com/services/emergency-garage-door-repair/): Urgent garage door service, subject to confirmed availability.
+- [Commercial garage doors](https://ksedoormechanics.com/services/commercial-garage-doors/): Commercial door repair, installation, and maintenance where supported.
+- [Industrial door services](https://ksedoormechanics.com/services/industrial-door-services/): Industrial door systems where supported.
 
 ## Common repair and opener topics
 
-- [Garage door spring replacement](https://example.com/services/garage-door-spring-replacement/)
-- [Garage door cable repair](https://example.com/services/garage-door-cable-repair/)
-- [Off-track garage door repair](https://example.com/services/off-track-garage-door-repair/)
-- [Garage door panel replacement](https://example.com/services/garage-door-panel-replacement/)
-- [Garage door opener repair](https://example.com/services/garage-door-opener-repair/)
-- [Garage door opener installation](https://example.com/services/garage-door-opener-installation/)
+- [Garage door spring replacement](https://ksedoormechanics.com/services/garage-door-spring-replacement/)
+- [Garage door cable repair](https://ksedoormechanics.com/services/garage-door-cable-repair/)
+- [Off-track garage door repair](https://ksedoormechanics.com/services/off-track-garage-door-repair/)
+- [Garage door panel replacement](https://ksedoormechanics.com/services/garage-door-panel-replacement/)
+- [Garage door opener repair](https://ksedoormechanics.com/services/garage-door-opener-repair/)
+- [Garage door opener installation](https://ksedoormechanics.com/services/garage-door-opener-installation/)
 
 ## Brands
 
-- [Brand directory](https://example.com/brands/): Supported manufacturer and opener brand information.
-- [Garage door brands](https://example.com/brands/garage-door-brands/)
-- [Garage door opener brands](https://example.com/brands/garage-door-opener-brands/)
-- [Commercial and industrial brands](https://example.com/brands/commercial-industrial-brands/)
-- [LiftMaster](https://example.com/brands/liftmaster/)
-- [Chamberlain](https://example.com/brands/chamberlain/)
-- [Genie](https://example.com/brands/genie/)
-- [Clopay](https://example.com/brands/clopay/)
-- [Amarr](https://example.com/brands/amarr/)
-- [Wayne Dalton](https://example.com/brands/wayne-dalton/)
+- [Brand directory](https://ksedoormechanics.com/brands/): Supported manufacturer and opener brand information.
+- [Garage door brands](https://ksedoormechanics.com/brands/garage-door-brands/)
+- [Garage door opener brands](https://ksedoormechanics.com/brands/garage-door-opener-brands/)
+- [Commercial and industrial brands](https://ksedoormechanics.com/brands/commercial-industrial-brands/)
+- [LiftMaster](https://ksedoormechanics.com/brands/liftmaster/)
+- [Chamberlain](https://ksedoormechanics.com/brands/chamberlain/)
+- [Genie](https://ksedoormechanics.com/brands/genie/)
+- [Clopay](https://ksedoormechanics.com/brands/clopay/)
+- [Amarr](https://ksedoormechanics.com/brands/amarr/)
+- [Wayne Dalton](https://ksedoormechanics.com/brands/wayne-dalton/)
 
 ## Service areas
 
-- [Locations directory](https://example.com/locations/)
-- [Boston, MA](https://example.com/locations/boston-ma/)
-- [South Boston, MA](https://example.com/locations/south-boston-ma/)
-- [East Boston, MA](https://example.com/locations/east-boston-ma/)
+- [Locations directory](https://ksedoormechanics.com/locations/)
+- [Boston, MA](https://ksedoormechanics.com/locations/boston-ma/)
+- [South Boston, MA](https://ksedoormechanics.com/locations/south-boston-ma/)
+- [East Boston, MA](https://ksedoormechanics.com/locations/east-boston-ma/)
 
 ## Service scope and accuracy
 
@@ -56,4 +63,4 @@ Website: https://example.com/
 
 ## Index
 
-- [XML sitemap](https://example.com/sitemap.xml): Published canonical URL list after launch.
+- [XML sitemap](https://ksedoormechanics.com/sitemap.xml): Published canonical URL list after launch.
