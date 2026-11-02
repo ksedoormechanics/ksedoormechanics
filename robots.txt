@@ -1,0 +1,11 @@
+# KSE Door Mechanics — robots.txt
+# DRAFT: Replace example.com with the final canonical website domain.
+# Publish at https://YOUR-DOMAIN/robots.txt
+User-agent: *
+Allow: /
+
+# Prevent crawling of common non-public application/admin endpoints, if present.
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://example.com/sitemap.xml
