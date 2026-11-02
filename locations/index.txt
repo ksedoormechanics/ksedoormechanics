@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Garage Door Service Areas in Boston, MA | KSE Door Mechanics</title>
+<meta name="description" content="Explore garage door service areas across Boston, South Boston, and East Boston, MA. Find repair, installation, and opener services from KSE Door Mechanics.">
+<link rel="canonical" href="https://ksedoormechanics.com/locations/">
+<link rel="icon" href="/images/kse-door-mechanics-boston-favicon.webp" type="image/webp">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Garage Door Service Areas in Boston, MA | KSE Door Mechanics">
+<meta property="og:description" content="Garage door repair, installation and opener service in Boston, South Boston and East Boston.">
+<meta property="og:url" content="https://ksedoormechanics.com/locations/">
+<meta property="og:image" content="https://ksedoormechanics.com/images/locations/kse-boston-ma-garage-door-service.webp">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": ["WebPage", "CollectionPage"], "@id": "https://ksedoormechanics.com/locations/#webpage", "url": "https://ksedoormechanics.com/locations/", "name": "Garage Door Service Areas in Boston, MA | KSE Door Mechanics", "description": "Explore garage door service areas across Boston, South Boston, and East Boston, MA. Find repair, installation, and opener services from KSE Door Mechanics.", "isPartOf": {"@id": "https://ksedoormechanics.com/#website"}, "about": {"@id": "https://ksedoormechanics.com/#business"}, "publisher": {"@id": "https://ksedoormechanics.com/#business"}, "breadcrumb": {"@id": "https://ksedoormechanics.com/locations/#breadcrumb"}, "mainEntity": {"@id": "https://ksedoormechanics.com/locations/#list"}, "inLanguage": "en-US", "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".quick-answer", "#faq summary"]}}, {"@type": "BreadcrumbList", "@id": "https://ksedoormechanics.com/locations/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ksedoormechanics.com/"}, {"@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://ksedoormechanics.com/locations/"}]}, {"@type": "ItemList", "@id": "https://ksedoormechanics.com/locations/#list", "name": "KSE Door Mechanics garage door service areas", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Boston, MA", "url": "https://ksedoormechanics.com/locations/boston-ma/"}, {"@type": "ListItem", "position": 2, "name": "South Boston, MA", "url": "https://ksedoormechanics.com/locations/south-boston-ma/"}, {"@type": "ListItem", "position": 3, "name": "East Boston, MA", "url": "https://ksedoormechanics.com/locations/east-boston-ma/"}]}, {"@type": "HomeAndConstructionBusiness", "@id": "https://ksedoormechanics.com/#business", "name": "KSE Door Mechanics", "url": "https://ksedoormechanics.com/", "telephone": "+18338772561", "address": {"@type": "PostalAddress", "streetAddress": "1433 Highland Ave", "addressLocality": "Needham", "addressRegion": "MA", "postalCode": "02492", "addressCountry": "US"}, "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "opens": "08:00", "closes": "19:00"}], "areaServed": [{"@type": "City", "name": "Boston", "containedInPlace": {"@type": "State", "name": "Massachusetts"}}, {"@type": "Place", "name": "South Boston", "containedInPlace": {"@type": "City", "name": "Boston"}}, {"@type": "Place", "name": "East Boston", "containedInPlace": {"@type": "City", "name": "Boston"}}]}, {"@type": "FAQPage", "@id": "https://ksedoormechanics.com/locations/#faq", "mainEntity": [{"@type": "Question", "name": "What areas of Boston does KSE Door Mechanics serve?", "acceptedAnswer": {"@type": "Answer", "text": "KSE Door Mechanics serves Boston, Massachusetts, including the South Boston and East Boston neighborhoods. Each has its own service-area page on this site. The business operates from Needham, MA and travels to Boston customers. Call (833) 877-2561 to confirm your address."}}, {"@type": "Question", "name": "Does KSE Door Mechanics provide garage door repair in South Boston?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. KSE Door Mechanics handles garage door repair in South Boston, including springs, cables, tracks, rollers and openers for residential and applicable commercial doors. Call to describe the problem and confirm availability for your address."}}, {"@type": "Question", "name": "Can I schedule garage door opener repair in East Boston?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Opener repair, troubleshooting and installation are available for East Boston customers, along with maintenance and mechanical door repair. Call (833) 877-2561, tell us your address and what the opener is doing, and we will arrange a visit."}}, {"@type": "Question", "name": "Does KSE Door Mechanics provide garage door installation throughout Boston?", "acceptedAnswer": {"@type": "Answer", "text": "KSE Door Mechanics installs and replaces garage doors for customers in its Boston service area. Availability depends on the address and the type of door, so call to confirm coverage and discuss installation or replacement options before booking."}}, {"@type": "Question", "name": "How do I confirm whether my ZIP code is covered?", "acceptedAnswer": {"@type": "Answer", "text": "Check the ZIP list on this page, then call (833) 877-2561 with your full address. Coverage depends on the specific address and the service requested, so a quick phone confirmation is the most reliable way to know."}}, {"@type": "Question", "name": "Does KSE Door Mechanics repair broken garage door springs?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Torsion and extension spring replacement is part of the service. Springs are under extreme tension, so do not adjust or remove them yourself. Stop using the door and call for a professional inspection."}}, {"@type": "Question", "name": "Can you repair garage door cables and tracks?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. KSE Door Mechanics repairs and replaces garage door cables and tracks, including off-track doors, bent tracks and cables that have slipped off the drum. If a cable has snapped or the door is crooked, stop using it and call."}}, {"@type": "Question", "name": "Do you provide garage door maintenance?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Maintenance includes inspection of springs, cables, rollers, tracks and openers, lubrication, and safety reversal testing. Regular checks help catch wear before a part fails. Call to schedule maintenance for a home or commercial overhead door."}}, {"@type": "Question", "name": "Where is KSE Door Mechanics physically located?", "acceptedAnswer": {"@type": "Answer", "text": "The business address is 1433 Highland Ave, Needham, MA 02492. KSE Door Mechanics does not have a Boston office; it serves the Boston area from Needham. Please call ahead rather than visiting without an appointment."}}, {"@type": "Question", "name": "How can I schedule garage door service in Boston?", "acceptedAnswer": {"@type": "Answer", "text": "Call (833) 877-2561, Monday to Saturday, 8:00 AM to 7:00 PM, or use the contact page. Share your address and the garage door problem, confirm availability, and arrange an inspection or service visit."}}]}]}</script>
+<script>
+window.__hdr=fetch("/header.html").then(function(r){return r.text()});
+window.__ftr=fetch("/footer.html").then(function(r){return r.text()});
+</script>
+<style>
+:root{--navy:#102A43;--steel:#243B53;--orange:#F97316;--ice:#F4F7FB;--slate:#334155;--r:10px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;font:17px/1.6 Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--slate);background:var(--ice);padding-bottom:64px}
+h1,h2,h3{font-family:Montserrat,Inter,system-ui,sans-serif;color:var(--navy);line-height:1.15;margin:0 0 .5em}
+h1{font-size:clamp(2rem,6.5vw,3.4rem);font-weight:800}h2{font-size:clamp(1.5rem,4vw,2.2rem)}h3{font-size:1.1rem}
+a{color:var(--steel)}img{max-width:100%;height:auto}
+.wrap{max-width:1140px;margin:0 auto;padding:0 20px}
+.btn{display:inline-block;background:var(--orange);color:#111;font-weight:700;text-decoration:none;padding:13px 22px;border-radius:var(--r);min-height:44px;border:0;cursor:pointer;font-size:1rem}
+.btn:hover{background:#ea6a0c}.btn.ghost{background:transparent;color:#fff;box-shadow:inset 0 0 0 2px #fff}
+:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+#site-header{min-height:96px}#site-header.ready{display:contents}
+.topbar{background:var(--steel);color:#fff;text-align:center;font-size:.8rem;line-height:20px;height:32px;padding:6px 10px;white-space:nowrap;overflow:hidden}
+.site-header{background:var(--navy);top:0;z-index:20}
+.bar{display:flex;align-items:center;gap:10px;height:64px;flex-wrap:wrap}#nav.open{position:absolute;left:0;right:0;top:100%;background:var(--navy);padding:8px 20px 14px}.site-header{position:sticky}
+.logo{margin-right:auto}.logo img{display:block;height:38px;width:auto}.call .long{display:none}
+.menu{background:none;color:#fff;border:2px solid #fff;border-radius:8px;padding:8px 14px;font-weight:600;min-height:44px;cursor:pointer}
+.site-header .call{padding:10px 16px}
+#nav{display:none;width:100%;order:5}#nav.open{display:block;padding-bottom:12px}
+#nav ul{list-style:none;margin:0;padding:0}#nav a{display:block;color:#fff;text-decoration:none;padding:10px 4px}
+#nav .sub a{padding-left:20px;font-size:.95rem;opacity:.85}
+@media(min-width:900px){.call .long{display:inline}.call .short{display:none}.bar{flex-wrap:nowrap}.menu{display:none}#nav{display:block;width:auto;order:0;padding:0}
+#nav>ul{display:flex;gap:6px}#nav>ul>li{position:relative}#nav>ul>li>a{padding:20px 12px}
+#nav .sub{display:none;position:absolute;top:100%;left:0;background:var(--navy);min-width:220px;border-radius:0 0 var(--r) var(--r);padding:6px 0}
+#nav .has-sub:hover .sub,#nav .has-sub:focus-within .sub{display:block}#nav .sub a{padding:9px 16px}.logo{margin-right:20px}.bar>.call{margin-left:auto}}
+
+.hero{background:linear-gradient(160deg,var(--navy),var(--steel));color:#dbe4ee;padding:28px 0 56px}
+.hero h1{color:#fff}.hero p{max-width:54ch}.hgrid{display:grid;gap:32px;align-items:center}
+@media(min-width:900px){.hgrid{grid-template-columns:1.05fr 1fr}}
+.cta-row{display:flex;gap:12px;flex-wrap:wrap;margin:22px 0 0}
+.eyebrow{color:#fdba74;font-weight:700;margin:0 0 8px}
+.crumb{font-size:.9rem;margin-bottom:22px}.crumb a{color:#fff}.crumb span{margin:0 6px;opacity:.6}
+.shot{position:relative;border-radius:14px;box-shadow:12px 12px 0 var(--orange)}
+.shot img,.lc img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:14px}
+.lc img{border-radius:14px 14px 0 0}
+.chips{background:#fff;border-bottom:1px solid #dbe4ee;position:sticky;top:64px;z-index:10;padding:0}
+.chips ul{display:flex;gap:8px;overflow-x:auto;list-style:none;margin:0;padding:10px 20px;max-width:1140px;margin:auto}
+.chips a{white-space:nowrap;display:block;padding:9px 16px;border-radius:99px;background:var(--ice);text-decoration:none;font-weight:600;color:var(--navy);min-height:44px;line-height:26px}
+section{padding:52px 0;scroll-margin-top:110px}.alt{background:#fff}
+.lede{font-size:1.15rem;max-width:70ch}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));margin-top:22px}
+.card{background:#fff;border-left:5px solid var(--orange);border-radius:var(--r);padding:18px 20px;box-shadow:0 1px 3px rgba(16,42,67,.12)}
+.alt .card{background:var(--ice)}.card p{margin:0;font-size:.96rem}.card h3{margin:8px 0}
+.lgrid{display:grid;gap:22px;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));margin-top:22px}
+.lc{background:#fff;border-radius:14px;box-shadow:0 4px 14px rgba(16,42,67,.12);overflow:hidden;display:flex;flex-direction:column}
+.lb{padding:20px;display:flex;flex-direction:column;flex:1}.lb .cta-row{margin-top:auto;padding-top:14px}
+.lb h3 a{color:var(--navy);text-decoration:none}.alt2{background:#fff;box-shadow:inset 0 0 0 2px var(--navy);color:var(--navy)}
+.quick-answer{background:#fff;border-left:5px solid var(--orange);padding:18px 22px;border-radius:var(--r);max-width:80ch;margin-top:20px;box-shadow:0 1px 3px rgba(16,42,67,.12)}
+.finder{display:grid;gap:12px;max-width:560px}.finder input{margin:0}
+#res{margin-top:16px}#res .lc{margin-bottom:12px;padding:16px}
+.zips{display:grid;grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:10px;list-style:none;padding:0;margin:20px 0}
+.zips li{background:#fff;border:1.5px solid #cbd5e1;border-radius:8px;text-align:center;padding:10px;font-weight:700;color:var(--navy)}
+.mapbox{background:var(--navy);color:#e2e8f0;border-radius:14px;padding:24px}.mapbox h3{color:#fff}.mapbox a{color:#fdba74}
+.mapbox iframe{width:100%;height:340px;border:0;border-radius:10px;margin-top:14px}
+.steps{counter-reset:s;list-style:none;padding:0;display:grid;gap:12px;margin:22px 0 0}
+.steps li{counter-increment:s;background:#fff;border-radius:var(--r);padding:14px 16px 14px 56px;position:relative}
+.steps li::before{content:counter(s);position:absolute;left:14px;top:12px;width:30px;height:30px;border-radius:50%;background:var(--orange);color:#111;font-weight:800;display:grid;place-items:center}
+details{background:#fff;border-radius:var(--r);padding:14px 18px;margin-top:10px;box-shadow:0 1px 3px rgba(16,42,67,.1)}summary{font-weight:700;color:var(--navy);cursor:pointer}
+.alt details{background:var(--ice)}
+.cols{display:grid;gap:28px;align-items:center}@media(min-width:900px){.cols{grid-template-columns:1fr 1fr}}
+.cols img{display:block;border-radius:14px;width:100%;aspect-ratio:4/3;object-fit:cover}
+.final{background:var(--navy);color:#e2e8f0;text-align:center}.final h2{color:#fff}
+/* footer */
+.site-footer{background:var(--navy);color:#cbd5e1;padding:40px 0 16px;font-size:.95rem}
+.site-footer a{color:#fff}.site-footer h3{color:#fff}.site-footer ul{list-style:none;padding:0;margin:0}.site-footer li{padding:3px 0}
+.fgrid{display:grid;gap:26px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}.copy{margin-top:26px;font-size:.85rem;opacity:.8}
+.callbar{position:fixed;left:0;right:0;bottom:0;z-index:30;background:var(--orange);color:#111;text-align:center;font-weight:800;padding:16px;text-decoration:none;min-height:56px}
+@media(min-width:900px){.callbar{display:none}body{padding-bottom:0}}
+
+</style>
+</head>
+<body>
+<div id="site-header">
+  <noscript><nav aria-label="Primary"><a href="/services/">Services</a> <a href="/brands/">Brands</a> <a href="/locations/">Service Areas</a> <a href="/contact/">Contact</a> <a href="tel:+18338772561">Call (833) 877-2561</a></nav></noscript>
+</div>
+<main>
+<section class="hero">
+  <div class="wrap">
+    <nav class="crumb" aria-label="Breadcrumb"><a href="/">Home</a><span>&gt;</span><span aria-current="page" style="opacity:1;margin:0">Service Areas</span></nav>
+    <div class="hgrid">
+      <div>
+        <p class="eyebrow">Serving Boston, Massachusetts</p>
+        <h1>Garage Door Service Areas in Boston, MA</h1>
+        <p>KSE Door Mechanics provides garage door repair, installation, replacement, maintenance, and opener services throughout its Boston-area service region. Explore our service-area pages to find information relevant to your neighborhood.</p>
+        <div class="cta-row"><a class="btn" href="tel:+18338772561">Call (833) 877-2561</a><a class="btn ghost" href="#areas">Explore Service Areas</a></div>
+      </div>
+      <div class="shot"><img src="/images/locations/kse-boston-ma-garage-door-service.webp" alt="Illustrative Boston skyline and residential neighborhood" width="800" height="600" fetchpriority="high"></div>
+    </div>
+  </div>
+</section>
+
+<nav class="chips" aria-label="On this page"><ul>
+<li><a href="#boston">Boston</a></li><li><a href="#south-boston">South Boston</a></li><li><a href="#east-boston">East Boston</a></li><li><a href="#zip-codes">ZIP Code Coverage</a></li><li><a href="#services">Garage Door Services</a></li><li><a href="#faq">Service Area FAQs</a></li></ul></nav>
+
+<section id="areas">
+  <div class="wrap">
+    <h2>Where does KSE Door Mechanics provide garage door service?</h2>
+    <div class="quick-answer"><p><strong>Short answer:</strong> KSE Door Mechanics serves Boston, Massachusetts, including the South Boston and East Boston neighborhoods. The business is based at 1433 Highland Ave, Needham, MA 02492, and is open Monday to Saturday, 8:00 AM to 7:00 PM. Call <a href="tel:+18338772561">(833) 877-2561</a> to book garage door repair, installation, opener service or maintenance.</p></div>
+    <div class="lgrid">
+<article id="boston" class="lc" data-name="boston, ma boston ma"><img src="/images/locations/kse-boston-ma-garage-door-service.webp" alt="Illustrative Boston skyline and residential neighborhood" width="800" height="600" loading="lazy"><div class="lb"><h3><a href="/locations/boston-ma/">Garage Door Services in Boston, MA</a></h3><p>Homeowners and property managers across Boston can book repair, installation, maintenance, opener troubleshooting and spring replacement. Start here if your address is in Boston proper or you are not sure which area page fits.</p><p class="cta-row"><a class="btn" href="/locations/boston-ma/">View Boston page</a><a class="btn alt2" href="tel:+18338772561">Call (833) 877-2561</a></p></div></article><article id="south-boston" class="lc" data-name="south boston, ma south boston ma"><img src="/images/locations/kse-south-boston-ma-garage-door-service.webp" alt="Illustrative South Boston residential street with a garage door" width="800" height="600" loading="lazy"><div class="lb"><h3><a href="/locations/south-boston-ma/">Garage Door Services in South Boston, MA</a></h3><p>A South Boston neighborhood page for residential and applicable commercial properties, covering door repair, track and cable work, openers and routine service. Details are practical: what we fix and how to book.</p><p class="cta-row"><a class="btn" href="/locations/south-boston-ma/">View South Boston page</a><a class="btn alt2" href="tel:+18338772561">Call (833) 877-2561</a></p></div></article><article id="east-boston" class="lc" data-name="east boston, ma east boston ma"><img src="/images/locations/kse-east-boston-ma-garage-door-service.webp" alt="Illustrative East Boston residential street overlooking the waterfront" width="800" height="600" loading="lazy"><div class="lb"><h3><a href="/locations/east-boston-ma/">Garage Door Services in East Boston, MA</a></h3><p>For East Boston homes and businesses: residential and commercial garage door service, opener repair, maintenance and mechanical repair. Open the page for services and how to reach us.</p><p class="cta-row"><a class="btn" href="/locations/east-boston-ma/">View East Boston page</a><a class="btn alt2" href="tel:+18338772561">Call (833) 877-2561</a></p></div></article>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="finder">
+  <div class="wrap">
+    <h2>Find service in your area</h2>
+    <p>Type a neighborhood name to jump to its page. ZIP codes are matched against our supplied coverage list only.</p>
+    <form class="finder" id="ff" role="search" onsubmit="return false" style="padding:0;background:none">
+      <label for="q">Neighborhood or ZIP code</label>
+      <input id="q" type="search" inputmode="search" autocomplete="off" placeholder="e.g. South Boston or 02127">
+    </form>
+    <div id="res" aria-live="polite"></div>
+  </div>
+</section>
+
+<section id="map">
+  <div class="wrap">
+    <h2>Service area map</h2>
+    <p class="lede">Our business address is in Needham, MA. We travel to customers across Boston. This map is illustrative; exact service boundaries are confirmed by phone.</p>
+    <div class="mapbox">
+      <h3>Business address: Needham, MA</h3>
+      <p>1433 Highland Ave, Needham, MA 02492, USA. Service areas: <a href="/locations/boston-ma/">Boston</a>, <a href="/locations/south-boston-ma/">South Boston</a> and <a href="/locations/east-boston-ma/">East Boston</a> (both neighborhoods of Boston).</p>
+      <p class="cta-row" style="margin-top:12px"><button class="btn" id="mapBtn" type="button">Load map</button><a class="btn ghost" href="https://www.google.com/maps?cid=15488591012199013383" rel="noopener">Get directions on Google Maps</a></p>
+      <div id="mapHold"></div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="services">
+  <div class="wrap">
+    <h2>Garage door services across our service area</h2>
+    <p class="lede">The same core services are available throughout Boston. Open a service page for details, then call to confirm availability at your address.</p>
+    <div class="grid"><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7v9H3z"/></svg><h3><a href="/services/garage-door-repair/">Garage door repair</a></h3><p>Doors that stick, jam or won't move evenly.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v16H4zM4 9h16M4 14h16"/></svg><h3><a href="/services/garage-door-installation/">Garage door installation</a></h3><p>New residential doors fitted and tested.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12a8 8 0 0114-5M20 4v4h-4M20 12a8 8 0 01-14 5M4 20v-4h4"/></svg><h3><a href="/services/garage-door-replacement/">Garage door replacement</a></h3><p>When repair no longer makes sense.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 4c8 2-8 4 0 6s-8 4 0 6 "/></svg><h3><a href="/services/garage-door-spring-replacement/">Spring replacement</a></h3><p>Torsion and extension springs, replaced safely.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2L4 14h7l-1 8 9-12h-7z"/></svg><h3><a href="/services/garage-door-opener-repair/">Opener repair</a></h3><p>Motors, remotes, keypads and sensors.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg><h3><a href="/services/garage-door-opener-installation/">Opener installation</a></h3><p>New openers matched to your door.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17c5-10 13 0 18-10"/></svg><h3><a href="/services/garage-door-cable-repair/">Cable repair</a></h3><p>Frayed, snapped or off-drum cables.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 3v18M17 3v18M7 8h10M7 16h10"/></svg><h3><a href="/services/garage-door-track-repair/">Track repair</a></h3><p>Bent, loose or off-track doors.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 6l4 4-9 9H5v-4zM12 8l4 4"/></svg><h3><a href="/services/garage-door-maintenance/">Maintenance</a></h3><p>Inspection, lubrication and safety tests.</p></div><div class="card"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21V9l9-5 9 5v12M8 21v-7h8v7"/></svg><h3><a href="/services/commercial-garage-doors/">Commercial garage doors</a></h3><p>Overhead door service for businesses.</p></div></div>
+  </div>
+</section>
+
+<section id="local">
+  <div class="wrap">
+    <h2>Garage door needs in the Boston area</h2>
+    <div class="grid">
+      <div class="card"><h3>Temperature swings</h3><p>Boston winters and summers put seasonal stress on springs, lubricated parts and openers. A seasonal check is a sensible habit. See <a href="/services/garage-door-maintenance/">maintenance</a>.</p></div>
+      <div class="card"><h3>Weather sealing</h3><p>Worn bottom seals and weatherstripping let in drafts and moisture. See <a href="/services/garage-door-weatherstripping/">weatherstripping</a> and <a href="/services/garage-door-insulation/">insulation</a>.</p></div>
+      <div class="card"><h3>Rollers and tracks</h3><p>Moving parts wear with use, and moisture can encourage corrosion. Noise or uneven travel is worth inspecting. See <a href="/services/garage-door-roller-replacement/">rollers</a>.</p></div>
+      <div class="card"><h3>Opener safety</h3><p>Sensors and safety reversal should be tested regularly. See <a href="/services/garage-door-opener-maintenance/">opener maintenance</a>.</p></div>
+    </div>
+    <p>These are general considerations, not a claim that every door in a neighborhood has the same problems.</p>
+  </div>
+</section>
+
+<section class="alt" id="zip-codes">
+  <div class="wrap">
+    <h2>Boston ZIP Codes in Our Service Area</h2>
+    <p>These 18 ZIP codes were supplied by the business. We do not map each ZIP to a neighborhood, and some may be institutional or PO Box ZIPs.</p>
+    <ul class="zips" aria-label="Boston ZIP codes served"><li>02108</li><li>02109</li><li>02110</li><li>02111</li><li>02113</li><li>02114</li><li>02115</li><li>02116</li><li>02118</li><li>02127</li><li>02128</li><li>02133</li><li>02163</li><li>02199</li><li>02203</li><li>02205</li><li>02210</li><li>02215</li></ul>
+    <p><strong>Service availability depends on the specific address and the type of garage door service requested. Contact KSE Door Mechanics to confirm coverage.</strong></p>
+  </div>
+</section>
+
+<section id="process">
+  <div class="wrap cols">
+    <div>
+      <h2>Our garage door service process</h2>
+      <ol class="steps">
+        <li>Contact KSE Door Mechanics.</li><li>Tell us your location and garage door problem.</li><li>Confirm the service area and appointment availability.</li><li>Arrange an inspection or service visit.</li><li>Review available repair or replacement options.</li><li>Complete authorized work and relevant safety checks.</li>
+      </ol>
+      <p class="cta-row"><a class="btn" href="tel:+18338772561">Call (833) 877-2561</a></p>
+    </div>
+    <img src="/images/locations/kse-locations-service-technician.webp" alt="Illustrative garage door technician inspecting a garage door" width="800" height="600" loading="lazy">
+  </div>
+</section>
+
+<section class="alt" id="why">
+  <div class="wrap">
+    <h2>Why choose KSE Door Mechanics?</h2>
+    <div class="grid">
+      <div class="card"><h3>Since 2018</h3><p>Founded by David on September 11, 2018.</p></div>
+      <div class="card"><h3>Boston-area coverage</h3><p>Boston, South Boston and East Boston.</p></div>
+      <div class="card"><h3>Full door mechanics</h3><p>Springs, cables, tracks, rollers and panels.</p></div>
+      <div class="card"><h3>Installs and openers</h3><p>New doors, replacements and opener service.</p></div>
+      <div class="card"><h3>Preventive maintenance</h3><p>Inspections that catch wear early.</p></div>
+      <div class="card"><h3>Straightforward communication</h3><p>Clear options before work begins.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <h2>Garage door service area FAQs</h2>
+    <details><summary>What areas of Boston does KSE Door Mechanics serve?</summary><p>KSE Door Mechanics serves Boston, Massachusetts, including the South Boston and East Boston neighborhoods. Each has its own service-area page on this site. The business operates from Needham, MA and travels to Boston customers. Call (833) 877-2561 to confirm your address.</p></details><details><summary>Does KSE Door Mechanics provide garage door repair in South Boston?</summary><p>Yes. KSE Door Mechanics handles garage door repair in South Boston, including springs, cables, tracks, rollers and openers for residential and applicable commercial doors. Call to describe the problem and confirm availability for your address.</p></details><details><summary>Can I schedule garage door opener repair in East Boston?</summary><p>Yes. Opener repair, troubleshooting and installation are available for East Boston customers, along with maintenance and mechanical door repair. Call (833) 877-2561, tell us your address and what the opener is doing, and we will arrange a visit.</p></details><details><summary>Does KSE Door Mechanics provide garage door installation throughout Boston?</summary><p>KSE Door Mechanics installs and replaces garage doors for customers in its Boston service area. Availability depends on the address and the type of door, so call to confirm coverage and discuss installation or replacement options before booking.</p></details><details><summary>How do I confirm whether my ZIP code is covered?</summary><p>Check the ZIP list on this page, then call (833) 877-2561 with your full address. Coverage depends on the specific address and the service requested, so a quick phone confirmation is the most reliable way to know.</p></details><details><summary>Does KSE Door Mechanics repair broken garage door springs?</summary><p>Yes. Torsion and extension spring replacement is part of the service. Springs are under extreme tension, so do not adjust or remove them yourself. Stop using the door and call for a professional inspection.</p></details><details><summary>Can you repair garage door cables and tracks?</summary><p>Yes. KSE Door Mechanics repairs and replaces garage door cables and tracks, including off-track doors, bent tracks and cables that have slipped off the drum. If a cable has snapped or the door is crooked, stop using it and call.</p></details><details><summary>Do you provide garage door maintenance?</summary><p>Yes. Maintenance includes inspection of springs, cables, rollers, tracks and openers, lubrication, and safety reversal testing. Regular checks help catch wear before a part fails. Call to schedule maintenance for a home or commercial overhead door.</p></details><details><summary>Where is KSE Door Mechanics physically located?</summary><p>The business address is 1433 Highland Ave, Needham, MA 02492. KSE Door Mechanics does not have a Boston office; it serves the Boston area from Needham. Please call ahead rather than visiting without an appointment.</p></details><details><summary>How can I schedule garage door service in Boston?</summary><p>Call (833) 877-2561, Monday to Saturday, 8:00 AM to 7:00 PM, or use the contact page. Share your address and the garage door problem, confirm availability, and arrange an inspection or service visit.</p></details>
+  </div>
+</section>
+
+<section class="alt" id="contact">
+  <div class="wrap cols">
+    <div>
+      <h2>Contact and business location</h2>
+      <p><strong>KSE Door Mechanics</strong><br>1433 Highland Ave<br>Needham, MA 02492, USA<br>
+      <strong>Phone:</strong> <a href="tel:+18338772561">(833) 877-2561</a><br>
+      <strong>Email:</strong> <a href="mailto:ksedoormechanics@gmail.com">ksedoormechanics@gmail.com</a><br>
+      <strong>Hours:</strong> Monday–Saturday, 8:00 AM–7:00 PM</p>
+      <p>We serve the Boston area from our Needham business location. Please call to schedule rather than visiting without an appointment.</p>
+      <p><a href="https://www.google.com/maps?cid=15488591012199013383" rel="noopener">Get directions on Google Maps</a></p>
+    </div>
+    <p>Learn more <a href="/about-us/">about us</a>, browse <a href="/services/">all services</a> and <a href="/brands/">brands we work with</a>, or return to the <a href="/">home page</a>.</p>
+  </div>
+</section>
+
+<section class="final">
+  <div class="wrap">
+    <h2>Need Garage Door Service in Boston?</h2>
+    <p>Contact KSE Door Mechanics to discuss your location and garage door repair, installation, or maintenance needs.</p>
+    <p class="cta-row" style="justify-content:center"><a class="btn" href="tel:+18338772561">Call (833) 877-2561</a><a class="btn ghost" href="/contact/">Contact Us</a></p>
+  </div>
+</section>
+</main>
+<div id="site-footer"></div>
+<a class="callbar" href="tel:+18338772561">Call (833) 877-2561</a>
+<script>
+function inject(id,p,cb){p.then(function(h){var e=document.getElementById(id);e.innerHTML=h;e.classList.add('ready');cb&&cb()}).catch(function(){})}
+inject('site-header',window.__hdr,function(){var b=document.querySelector('.menu'),n=document.getElementById('nav');if(b&&n)b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o)})});
+inject('site-footer',window.__ftr,function(){var y=document.getElementById('yr');if(y)y.textContent=new Date().getFullYear()});
+(function(){
+var A=[["Boston, MA","boston-ma","boston"],["South Boston, MA","south-boston-ma","south boston southie"],["East Boston, MA","east-boston-ma","east boston eastie"]],
+Z=["02108", "02109", "02110", "02111", "02113", "02114", "02115", "02116", "02118", "02127", "02128", "02133", "02163", "02199", "02203", "02205", "02210", "02215"],q=document.getElementById('q'),r=document.getElementById('res');
+function show(){var v=q.value.trim().toLowerCase(),h='';if(!v){r.innerHTML='';return}
+if(/^\d{5}$/.test(v)){h=Z.indexOf(v)>-1?'<div class="lc"><p><strong>'+v+'</strong> is in our supplied ZIP list. Coverage depends on your exact address, so call <a href="tel:+18338772561">(833) 877-2561</a> to confirm. Start with the <a href="/locations/boston-ma/">Boston page</a>.</p></div>':'<div class="lc"><p>We could not find '+v.replace(/[<>&]/g,'')+' in our supplied list. Call <a href="tel:+18338772561">(833) 877-2561</a> and we will check your address.</p></div>';r.innerHTML=h;return}
+A.forEach(function(a){if(a[2].indexOf(v)>-1||a[0].toLowerCase().indexOf(v)>-1)h+='<div class="lc"><h3><a href="/locations/'+a[1]+'/">Garage door service in '+a[0]+'</a></h3><a class="btn" href="/locations/'+a[1]+'/">View page</a></div>'});
+r.innerHTML=h||'<div class="lc"><p>No matching area. Try Boston, South Boston or East Boston, or call <a href="tel:+18338772561">(833) 877-2561</a> to ask about your address.</p></div>'}
+q.addEventListener('input',show);
+document.getElementById('mapBtn').addEventListener('click',function(){var f=document.createElement('iframe');f.src='https://www.google.com/maps?q=1433+Highland+Ave,+Needham,+MA+02492&output=embed';f.title='Map of KSE Door Mechanics business address in Needham, MA';f.loading='lazy';document.getElementById('mapHold').appendChild(f);this.hidden=true});
+})();
+</script>
+</body>
+</html>
